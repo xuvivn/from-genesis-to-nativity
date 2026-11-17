@@ -1,77 +1,121 @@
-# Level 0 — Quyển I: Khởi Nguyên Và Ánh Sáng Đầu Tiên (Phân cảnh 01–08)
+# Level 0 — Quyển I: Khởi Nguyên Và Ánh Sáng Đầu Tiên (67 Chương)
 
-## 1. Bối Cảnh Văn Hóa & Vũ Trụ Quan
+## 1. Bối Cảnh Văn Hóa & Tinh Thần Cốt Lõi
 
-Quyển I đưa người nghe trở về thời đại huyền thoại sơ khai nhất: thuở thế giới chưa phải là khối vật chất lạnh lẽo mà là **một công trình đang thở của Ánh Sáng và Âm Nhạc**. Mặt trời, mặt trăng, từng ngọn cỏ, bông hoa đều mang hơi ấm của các thiên thần vừa rời bàn tay Đấng Tạo Hóa. Con người đầu tiên không phải là một kẻ chinh phục thiên nhiên, mà là một đứa trẻ mới mở mắt chào thế giới, vừa bỡ ngỡ học cách cày cấy đất khô, vừa lắng nghe tiếng vọng của Khu Vườn Ánh Sáng còn vương trong giấc mơ.
+Quyển I đưa người nghe trở về thời đại huyền thoại sơ khai nhất: thuở thế giới chưa phải là khối vật chất lạnh lẽo mà là **một công trình đang thở của Ánh Sáng và Âm Nhạc**. Mặt trời, mặt trăng, từng ngọn cỏ, bông hoa đều mang hơi ấm của các thiên thần vừa rời bàn tay Đấng Tạo Hóa. Con người đầu tiên không phải là một kẻ chinh phục thiên nhiên, mà là một đứa trẻ mới mở mắt chào thế giới, vừa bỡ ngỡ học cách cày cấy đất khô, vừa lắng nghe tiếng vọng của Vườn Địa Đàng còn vương trong giấc mơ.
 
-Từ cuộc chia ly rời Vườn Địa Đàng, nhân loại bước vào ba nhánh sáng tạo văn minh đầu tiên qua con cháu Cain và Seth: **dựng nhà cửa, gảy đàn ca hát, rèn đẽo kim khí và giữ gìn chữ viết thiêng**. Nhưng song hành với tiến bộ kỹ thuật (con dao sắt) là cám dỗ của nóng giận, săn giết giải trí và sự thờ phượng ngẫu tượng. Chỉ khi cơn nước lớn rửa sạch bụi bặm cũ, **chiếc cầu vồng** mới bắc lên như lời hứa bình an cho một khởi đầu thứ hai.
-
----
-
-## 2. Nhịp Điệu Kể Chuyện Đặc Trưng
-
-- **Giọng mở màn (Phân cảnh 01–02):** Vang, rộng, tròn hơi, giống giọng xướng sử thi chậm rãi. Giữ nhịp điệp khúc mỗi khi kết thúc một ngày sáng tạo: *"Và thế là có buổi chiều, có buổi sáng..."* — để trẻ em cảm nhận thời gian như từng nhịp sóng vỗ đều.
-- **Giọng giàu chất thơ tự nhiên (Phân cảnh 03–04):** Mềm lại và hạ thấp xuống khi kể về hoa ban trắng trên đỉnh núi, nụ hồng mọc gai để bảo vệ vẻ đẹp, hay bước chân run rẩy của Adam và Eve chạm lên đất đá trần gian lần đầu.
-- **Giọng ấm áp đời thường pha kịch tính (Phân cảnh 05–07):** Vui tươi rộn ràng khi Jabal dựng ngôi nhà tròn đầu tiên hay muôn thú rừng nằm im nghe tiếng đàn Jubal; trầm và căng hơn khi lão Cộc cãi vã trong lò rèn; rồi lại sáng rực, bay bổng khi Enoch cùng mười hai linh hồn cưỡi con ngựa trắng có cánh bay lên giữa các vì sao.
-- **Nhịp sóng nước (Phân cảnh 08):** Náo nức tiếng búa đóng tàu, dịu dàng hài hước lúc dơi – cú đêm – ốc sên xin lên tàu cuối cùng, dồn dập trong tiếng mưa bão 40 ngày, rồi lặng ngắt thanh bình khi cánh chim bồ câu tha nhành ô liu trở về dưới vòm cầu vồng bảy sắc.
+Từ cuộc chia ly rời Vườn Địa Đàng, nhân loại bước vào ba nhánh sáng tạo văn minh đầu tiên qua con cháu Cain và Seth: **thuần hóa muôn thú, dựng ngôi nhà đầu tiên, gảy đàn ca hát, rèn đẽo kim khí và giữ gìn chữ viết thiêng**. Nhưng song hành với tiến bộ kỹ thuật (con dao sắt) là cám dỗ của nóng giận (bi kịch Kenos), săn giết giải trí và sự thờ phượng ngẫu tượng. Chỉ khi cơn nước lớn rửa sạch bụi bặm cũ, **chiếc cầu vồng** mới bắc lên như lời hứa bình an cho một khởi đầu thứ hai.
 
 ---
 
-## 3. Thông Điệp Ẩn Dụ Theo Lứa Tuổi
+## 2. Nhịp Điệu Kể Chuyện Đặc Trưng (Độ Tuổi 9–10)
 
-### Lứa tuổi 3–5 (Mầm non)
-- **Điểm chạm:** Thế giới này được tạo ra từ tình yêu thương và ánh sáng; mọi loài vật — từ chú cừu trắng, chim bồ câu đến ốc sên chậm chạp — đều có một chỗ ấm áp riêng trong vòng tay che chở.
-- **Ẩn dụ cốt lõi:** Dù đôi lúc trời có mưa to gió lớn, cầu vồng vẫn chờ sau đám mây; và lòng biết ơn giúp hạt lúa, cây hoa lớn lên ngọt lành.
-
-### Lứa tuổi 6–10 (Tiểu học)
-- **Điểm chạm:** Sức mạnh thật sự không nằm ở nắm đấm hay vũ khí (lão Cộc, vị Vua vương miện đen), mà ở đôi tay biết xây dựng (Jabal), tiếng đàn cảm hóa thú dữ (Jubal), lòng dũng cảm nói sự thật (Enoch) và sự trung tín làm điều đúng ngay cả khi bị cả thành phố cười nhạo (Noah).
-- **Ẩn dụ cốt lõi:** Con người đứng giữa sáng và tối **như bông hoa**: *"bằng đóa hoa nó mở ra đón ánh sáng, và bằng bộ rễ nó bám chặt vào đất tối để đứng thẳng lên"*.
-
-### Lứa tuổi 11+ (Thiếu niên & Người lớn)
-- **Điểm chạm:** Mỗi công cụ con người tạo ra (lửa rèn, con dao sắt, nghệ thuật, ngôn từ) đều mang hai khả năng: phục vụ sự sống hay phục vụ dục vọng (như dao vàng – dao bạc – dao sắt trong lò của Thubal-Cain).
-- **Ẩn dụ cốt lõi:** Ngụ ngôn *bốn con vật trong vườn nho* (cừu – sư tử – khỉ – lợn) nhắc về ranh giới mong manh giữa niềm vui và sự đánh mất tự chủ ngay cả sau khi thế giới vừa được thanh tẩy; còn ngôi mộ của Adam tại ngọn đồi Golgatha nối sự sống đầu tiên với lời hứa cứu chuộc cuối cùng.
+- **Giọng mở màn (Chương 1–6):** Vang, rộng, tròn hơi, giống giọng xướng sử thi chậm rãi. Giữ nhịp điệp khúc mỗi khi kết thúc một ngày sáng tạo: *"Và thế là có buổi chiều, có buổi sáng..."* — để trẻ cảm nhận thời gian như từng nhịp sóng vỗ đều.
+- **Giọng giàu chất thơ tự nhiên (Chương 7–17):** Mềm lại và hạ thấp xuống khi kể về hoa nhung tuyết trên đỉnh núi đá, nụ hồng mọc gai để bảo vệ vẻ đẹp, hay bước chân run rẩy của Adam và Eve chạm lên đất đá trần gian lần đầu.
+- **Giọng ấm áp đời thường pha kịch tính (Chương 18–45):** Vui tươi rộn ràng khi Jabal dựng ngôi nhà tròn đầu tiên với cành lá mừng cất nóc hay muôn thú rừng nằm im nghe tiếng đàn Jubal; trầm và căng hơn khi Kenos cãi vã trong lò rèn; rồi lại sáng rực, bay bổng khi Enoch cùng mười hai linh hồn cưỡi con ngựa trắng có cánh bay lên giữa các vì sao.
+- **Nhịp sóng nước (Chương 46–67):** Náo nức tiếng búa đóng tàu, dịu dàng hài hước lúc cặp hươu cao cổ thò cổ lên tầng giữa hay dơi – cú đêm – ốc sên xin lên tàu cuối cùng, dồn dập trong tiếng mưa bão 40 ngày, rồi lặng ngắt thanh bình khi cánh chim bồ câu tha nhành ô liu trở về dưới vòm cầu vồng bảy sắc.
 
 ---
 
-## 4. Hướng Dẫn Phát Âm Tên Riêng & Địa Danh Cổ (Quyển I)
+## 3. Điểm Chạm & Ẩn Dụ Cho Trẻ 9–10 Tuổi
+
+- **Điểm chạm:** Sức mạnh thật sự không nằm ở nắm đấm hay vũ khí (Kenos, vị Vua đội vương miện đen), mà ở đôi tay biết xây dựng và chăm sóc muôn loài (Jabal), tiếng đàn cảm hóa thú dữ (Jubal), lòng dũng cảm nói sự thật (Enoch) và sự trung tín làm điều đúng ngay cả khi bị cả thành phố cười nhạo (Noah).
+- **Ẩn dụ cốt lõi:** Con người đứng giữa sáng và tối **như bông hoa**: *"bằng đóa hoa nó mở ra đón ánh sáng, và bằng bộ rễ nó bám giữ đất tối để đứng thẳng lên"*. Còn ba hạt giống dưới lưỡi Adam và ngôi mộ trên đồi Golgatha kết nối khởi nguyên với lời hứa tương lai.
+
+---
+
+## 4. Hướng Dẫn Phát Âm Tên Riêng & Địa Danh Cổ
 
 | Tên trong văn bản | Cách đọc tự nhiên khi kể (Tiếng Việt) | Ngữ cảnh xuất hiện |
 | :--- | :--- | :--- |
-| **Michael** | *Mi-kha-en* | Tổng lãnh thiên thần cầm gươm ánh sáng đẩy lùi Rồng tối (Cảnh 01) |
-| **Lucifer / Satan** | *Lu-xi-phơ* / *Sa-tan* | Con rồng / Ác linh thử thách và cám dỗ con người (Cảnh 01, 04, 08) |
-| **Adam** | *A-đam* | Con người đầu tiên nặn từ đất và thổi hơi ánh sáng (Cảnh 02–05, 08) |
-| **Eve** | *Ê-va* | Người nữ đầu tiên sống cùng Adam trong Vườn Địa Đàng (Cảnh 02–05) |
-| **Cain** | *Ca-in* | Anh cả trồng trọt, người gieo mầm xung đột nhưng dòng dõi lập nên văn minh (Cảnh 05–06) |
-| **Abel** | *A-ben* | Em thứ chăn cừu hiền lành dâng lễ vật tinh khiết (Cảnh 05) |
-| **Seth** | *Sét* | Người em thứ ba của Cain – Abel, vị tư tế giữ Cuốn Sách Sự Sống (Cảnh 05–07) |
-| **Jabal** | *Gia-ban* | Con cháu Cain: người thuần hóa gia súc và dựng ngôi nhà tròn đầu tiên (Cảnh 06) |
-| **Jubal** | *Giu-ban* | Con cháu Cain: người mang sáo và đàn hạc cảm hóa muôn thú & con người (Cảnh 06) |
-| **Thubal-Cain** | *Thu-ban Ca-in* | Con cháu Cain: người thợ rèn đầu tiên rèn vàng, bạc, đồng, sắt (Cảnh 06) |
-| **Naamah** | *Na-a-ma* | Cô gái khéo tay dệt chiếc áo choàng trắng dài cho Jubal (Cảnh 06) |
-| **Enos** | *Ê-nốt* | Kẻ nhạo báng dẫn loài người vào việc thờ tượng đất sét và vạch đen trên trán (Cảnh 07) |
-| **Enoch** | *Ê-nóc* | Vị thánh giả áo trắng tìm lại hang Sách Thánh và thăng thiên trên ngựa có cánh (Cảnh 07) |
-| **Methusala** | *Mê-tu-sa-la* | Cụ cố thọ tuổi nhớ thời hoàng kim của Enoch và gọi Con Tàu là "Đền Thờ" (Cảnh 08) |
-| **Lamech** | *La-méc* | Con trai Methusala, cha của Noah (Cảnh 08) |
-| **Noah** | *Nô-ê* (hoặc đọc *Nô-a*) | Người đóng Con Tàu gỗ tuyết tùng vượt Đại Hồng Thủy (Cảnh 08) |
-| **Namoa** | *Na-mô-a* | Người vợ hiền thảo của Noah (Cảnh 08) |
-| **Sem – Ham – Jafet** | *Sêm – Ham – Gia-phét* | Ba người con trai của Noah (chim muông – thú dữ – gia súc) (Cảnh 08) |
-| **Anoa** | *A-nô-a* | Viên ngọc dạ quang tự phát sáng trong lòng Con Tàu (Cảnh 08) |
-| **Raphael** | *Ra-pha-en* | Tổng lãnh thiên thần chữa lành dẫn Noah tới hang Sách Sự Sống (Cảnh 08) |
-| **Ararat** | *A-ra-rát* | Ngọn núi nơi Con Tàu đáp xuống và Noah trồng vườn nho (Cảnh 08) |
-| **Golgatha** | *Gôn-gô-tha* | Ngọn đồi nơi Sem an táng hài cốt Adam — điểm hẹn tương lai của sự cứu chuộc (Cảnh 08) |
+| **Michael** | *Mi-kha-en* | Tổng lãnh thiên thần cầm gươm ánh sáng đẩy lùi Con Rồng (Chương 1–2) |
+| **Lucifer / Satan** | *Lu-xi-phơ / Sa-tan* | Ác linh thử thách và cám dỗ con người (Chương 1–2, 16, 66) |
+| **Oriphiel** | *Ô-ri-phi-en* | Đại thiên thần của sự trầm mặc đứng bên ngai vàng (Chương 3) |
+| **Adam – Eve** | *A-đam – Ê-va* | Hai con người đầu tiên trong Vườn Địa Đàng và trên mặt đất (Chương 13–26) |
+| **Cain – Abel – Seth** | *Ca-in – A-ben – Sét* | Ba người con của Adam và Eve (Chương 18–26, 38) |
+| **Jabal – Jubal – Thubal-Cain** | *Gia-ban – Giu-ban – Thu-ban Ca-in* | Ba người con tài hoa của Cain (Chương 27–37) |
+| **Kenos** | *Kê-nốt* | Người thợ rèn nóng nảy gây án mạng rồi trở thành kẻ cướp rừng (Chương 35–37) |
+| **Enos – Enoch** | *Ê-nốt – Ê-nóc* | Kẻ mở đầu thờ tượng đất sét và vị thánh áo trắng thăng thiên (Chương 39–45) |
+| **Methusala – Lamech – Noah** | *Mê-tu-sa-la – La-méc – Nô-a* | Ba thế hệ giữ ngọn lửa công chính đóng Con Tàu (Chương 46–67) |
+| **Sem – Ham – Jafet** | *Sêm – Ham – Gia-phét* | Ba người con trai của Noah trên Con Tàu (Chương 54–67) |
+| **Anoa / Ararat / Golgatha** | *A-nô-a / A-ra-rát / Gôn-gô-tha* | Viên ngọc dạ quang, ngọn núi tàu đáp và đồi an táng Adam (Chương 57, 66–67) |
 
 ---
 
-## 5. Mạng Lưới 8 Phân Cảnh Trong Quyển I
+## 5. Danh Mục 67 Chương Trong Quyển
 
-1. **Cảnh 01** (`canh-01-khoi-nguyen-va-cuoc-chien-anh-sang`): Bóng tối nguyên thủy → Ánh sáng từ Trái tim Đấng Tạo Hóa → Michael đánh bại Con Rồng.
-2. **Cảnh 02** (`canh-02-bay-ngay-sang-the`): Sáu ngày sáng tạo trời đất, mặt trời – trăng – sao, cây cỏ, chim cá thú rừng, tạo dựng Adam và ngày nghỉ thứ Bảy.
-3. **Cảnh 03** (`canh-03-muon-hoa-va-muon-thu-buoi-dau`): Vì sao hoa ban trắng nở trên núi cao gần sao trời, cây độc mang màu báo hiệu, hoa hồng mọc gai tự vệ, và sự phân biệt giữa bồ câu – cừu non với dơi – sói.
-4. **Cảnh 04** (`canh-04-vuon-dia-dang-va-buoc-chan-xuong-tran`): Eve bước ra, con rắn bên Cây Tri Thức, chiếc cổng ánh sáng khép lại và những bước chân đầu tiên lao động trên mặt đất đầy đá sỏi.
-5. **Cảnh 05** (`canh-05-cain-abel-va-hat-giong-su-song`): Mâu thuẫn Cain – Abel, bi kịch trên đồng, người em Seth ra đời, cái chết của Adam cùng Cuốn Sách Sự Sống và 3 hạt giống đặt dưới lưỡi thành Cây Thập Tự tương lai.
-6. **Cảnh 06** (`canh-06-con-chau-cain-va-ngon-lua-van-minh`): Jabal thuần hóa gia súc & cất nóc ngôi nhà đầu tiên; Thubal-Cain rèn dao vàng – dao bạc – dao sắt; Jubal làm nhạc dịu lòng ác thú; bi kịch lão Cộc và bài hát ru cứu Jubal khỏi hang cướp.
-7. **Cảnh 07** (`canh-07-enoch-nguoi-giu-anh-sang`): Seth ẩn giấu sách; thời suy đồi của Enos; Enoch giáng sinh giữa đàn chim trắng, đập vỡ tượng đất sét, giảng ngụ ngôn bông hoa hướng sáng cho bọn cướp và thăng thiên trên ngựa trắng có cánh.
-8. **Cảnh 08** (`canh-08-con-tau-noah-va-cau-vong-giao-uoc`): Noah trước Thành phố Trăm Ngẫu Tượng; thiên thần Raphael trao Sách Sự Sống; đóng Con Tàu gỗ tuyết tùng gắn ngọc Anoa; 40 ngày Đại Hồng Thủy; quạ và bồ câu tha nhành ô liu; cầu vồng giao ước; vườn nho bốn chén và mộ Adam trên đồi Golgatha.
+### Phần I: Bảy Ngày Sáng Thế
+- **Chương 1:** Khởi Nguyên Của Thế Giới
+- **Chương 2:** Michael Và Con Rồng
+- **Chương 3:** Ngày Sáng Tạo Thứ Nhất
+- **Chương 4:** Ngày Thứ Hai
+- **Chương 5:** Ngày Thứ Ba
+- **Chương 6:** Ngày Thứ Tư
+- **Chương 7:** Hoa Nhung Tuyết Và Các Loài Hoa Trên Đỉnh Núi Cao
+- **Chương 8:** Chuyện Về Các Loài Cây Có Độc
+- **Chương 9:** Vì Sao Hoa Hồng Có Gai
+- **Chương 10:** Ngày Thứ Năm
+- **Chương 11:** Ngày Thứ Sáu
+- **Chương 12:** Chim Bồ Câu Và Chú Cừu Non
+- **Chương 13:** Sự Tạo Dựng Con Người
+- **Chương 14:** Ngày Thứ Bảy
+- **Chương 15:** Trong Vườn Địa Đàng
+- **Chương 16:** Sự Sa Ngã
+- **Chương 17:** Trên Mặt Đất
+
+### Phần II: Con Cháu Của Cain
+- **Chương 18:** Cain Và Abel
+- **Chương 19:** Giấc Mơ Của Cain Và Abel
+- **Chương 20:** Cain Hạ Gục Con Sói
+- **Chương 21:** Khi Eve Khóc
+- **Chương 22:** Cain Đã Giết Abel Như Thế Nào
+- **Chương 23:** Adam Chôn Abel Trong Ngôi Mộ Đầu Tiên Trên Mặt Đất
+- **Chương 24:** Seth, Người Em Mới Của Cain
+- **Chương 25:** Thiên Thần Trao Cuốn Sách Sự Sống Cho Adam
+- **Chương 26:** Cái Chết Của Adam
+- **Chương 27:** Các Con Trai Của Cain
+- **Chương 28:** Jabal, Người Thuần Hóa Loài Vật
+- **Chương 29:** Jubal Mang Âm Nhạc Đến Cho Loài Người
+- **Chương 30:** Thubal-Cain, Nhà Phát Minh Và Thợ Rèn
+- **Chương 31:** Các Con Trai Của Cain Và Những Ngôi Nhà Đầu Tiên
+- **Chương 32:** Ba Con Dao
+- **Chương 33:** Jubal Chơi Nhạc Cho Muôn Thú
+- **Chương 34:** Jubal Chơi Nhạc Cho Loài Người
+- **Chương 35:** Chuyện Về Những Kẻ Đồng Hành Gian Ác Và Việc Làm Tội Lỗi
+- **Chương 36:** Kenos Trong Hang Rừng
+- **Chương 37:** Jubal Thoát Khỏi Hiểm Nguy Lớn Như Thế Nào
+- **Chương 38:** Cái Chết Của Seth
+- **Chương 39:** Enos Đã Mang Việc Thờ Ngẫu Tượng Đến Cho Loài Người Như Thế Nào
+- **Chương 40:** Ánh Sáng Thiện Lương Trở Lại Mặt Đất Nhờ Enoch
+- **Chương 41:** Enoch Dâng Lễ Vật Đầu Tiên
+- **Chương 42:** Enoch Tìm Thấy Hang Động Sách Thánh
+- **Chương 43:** Những Chuyến Du Hành Của Enoch
+- **Chương 44:** Ngọn Núi Của Chúa Và Các Tư Tế
+- **Chương 45:** Enoch Thăng Thiên
+
+### Phần III: Con Tàu Của Noah
+- **Chương 46:** Ông Lão Methusala
+- **Chương 47:** Đâu Là Ngôi Nhà Của Người Công Chính?
+- **Chương 48:** Sự Ra Đời Của Noah
+- **Chương 49:** Cơn Giận Của Cậu Bé Noah
+- **Chương 50:** Thành Phố Trăm Ngẫu Tượng
+- **Chương 51:** Mệnh Lệnh
+- **Chương 52:** Vị Vua Đội Vương Miện Đen
+- **Chương 53:** Raphael Dẫn Noah Tới Cuốn Sách Sự Sống
+- **Chương 54:** Mệnh Lệnh Đóng Con Tàu
+- **Chương 55:** Sem, Ham, Jafet Và Các Loài Vật
+- **Chương 56:** Liệu Con Tàu Có Bị Phá Hủy Không?
+- **Chương 57:** Tập Hợp Các Loài Vật
+- **Chương 58:** Bước Vào Con Tàu
+- **Chương 59:** Chiếc Quan Tài Của Adam
+- **Chương 60:** Con Tàu Được Niêm Phong Và Mưa Bắt Đầu Rơi
+- **Chương 61:** Cơn Đại Hồng Thủy
+- **Chương 62:** Nỗi Khốn Khổ Trong Con Tàu
+- **Chương 63:** Chuyến Bay Của Quạ Và Thông Điệp Của Bồ Câu
+- **Chương 64:** Thế Giới Mới
+- **Chương 65:** Lễ Tạ Ơn
+- **Chương 66:** Ác Quỷ Trong Vườn Nho Của Noah
+- **Chương 67:** Sem Và Các Thiên Thần
 
 ---
 

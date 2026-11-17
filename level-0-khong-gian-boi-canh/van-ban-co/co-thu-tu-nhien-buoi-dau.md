@@ -8,7 +8,7 @@
 
 **2.** Khi muôn hoa trên đồng cỏ nở rộ nhưng buồn bã vì loài chim chỉ mải bay vút lên tầng mây cao ít khi ghé xuống chuyện trò, một đám mây rực rỡ sắc màu từ trời tỏa xuống hóa thành **hàng ngàn cánh bướm mỏng manh** rập rờn bay đậu trên từng đài hoa uống mật và kể cho hoa nghe chuyện trời cao.
 
-**3.** Nhưng vì còn nhiều bông hoa bé nhỏ mọc khuất trong bụi gai rậm rạp mà đôi cánh bướm rộng không len vào tới được, đám mây nâu ấm lại sinh ra **đàn ong mật** cần mẫn. Chú bướm sặc sỡ từng kiêu ngạo chê đôi cánh ngắn ngủn của ong nâu, nhưng trong cuộc thi tìm mật tới bông hoa giữa bụi cỏ dày và tán cây nhãn xa xôi, bướm vướng cánh trong bụi rậm còn ong nhỏ đã kịp hút mật xong từ lâu — chứng minh mọi sinh linh nhỏ bé đều mang một tài khéo riêng.
+**3.** Nhưng vì còn nhiều bông hoa bé nhỏ mọc khuất trong bụi gai rậm rạp mà đôi cánh bướm rộng không len vào tới được, đám mây nâu ấm lại sinh ra **đàn ong mật** cần mẫn. Chú bướm sặc sỡ từng kiêu ngạo chê đôi cánh ngắn ngủn của ong nâu, nhưng trong cuộc thi tìm mật tới bông hoa giữa bụi cỏ dày và tán cây đoạn già xa xôi, bướm vướng cánh trong bụi rậm còn ong nhỏ đã kịp hút mật xong từ lâu — chứng minh mọi sinh linh nhỏ bé đều mang một tài khéo riêng.
 
 ---
 

@@ -4,7 +4,7 @@
 
 ## Chương I: Đêm Đầu Tiên Ngoài Cổng Vườn Địa Đàng
 
-**1.** Khi cánh cổng rực sáng của Vườn Địa Đàng khép lại phía sau cùng thanh gươm lửa xoay vần canh giữ, **Adam** và **Eva** đặt những bước chân trần đầu tiên xuống mặt đất đầy đá sỏi bên ngoài. Gió lạnh thổi buốt da thịt chưa từng biết gió sương; hai người vội vã gom cành khô và những chiếc lá cọ, lá chuối rừng dựng tạm một mái lều đơn sơ tránh thú dữ trong đêm tối.
+**1.** Khi cánh cổng rực sáng của Vườn Địa Đàng khép lại phía sau cùng thanh gươm lửa xoay vần canh giữ, **Adam** và **Eva** đặt những bước chân trần đầu tiên xuống mặt đất đầy đá sỏi bên ngoài. Gió lạnh thổi buốt da thịt chưa từng biết gió sương; hai người vội vã gom cành khô và những chiếc lá cọ, lá cây rừng dựng tạm một mái lều đơn sơ tránh thú dữ trong đêm tối.
 
 **2.** Sáng hôm sau khi bước đi tìm nguồn nước và hoa quả rừng, đôi bàn chân nặng nề của Adam giẫm trúng gai nhọn ven lối mòn, làm rỉ ra **những giọt máu đầu tiên** của con người trên mặt đất; chàng đành lấy mảnh vỏ cây mềm buộc tạm dưới lòng bàn chân, rồi gom cỏ khô và rêu mềm trải thành chỗ ngủ đầu tiên. Khi tìm được vài trái cây chín dâng cho Eva ăn đỡ lòng, cắn một miếng mà thấy vị nhạt nhòa thiếu hẳn hương thơm thanh khiết của khu vườn xưa, Eva nhớ tới thiên đàng đã mất liền òa khóc nức nở — rơi xuống **những giọt nước mắt đầu tiên** thấm vào đất khô.
 
