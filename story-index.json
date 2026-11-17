@@ -1,0 +1,1017 @@
+{
+  "title": "Từ Sáng Thế Đến Giáng Sinh — Bộ Sử Thi Luyện Kể Chuyện 5 Cấp Độ",
+  "language": "vi",
+  "total_books": 5,
+  "total_scenes": 28,
+  "levels": [
+    {
+      "level": 0,
+      "name": "Không gian bối cảnh & Linh hồn câu chuyện",
+      "dir": "level-0-khong-gian-boi-canh",
+      "overview_file": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md"
+    },
+    {
+      "level": 1,
+      "name": "Toàn văn câu chuyện",
+      "dir": "level-1-toan-van",
+      "variants": [
+        {
+          "id": "6-10",
+          "label": "6–10 tuổi (Chuẩn)",
+          "dir": "level-1-toan-van/6-10-tuoi-chuan"
+        },
+        {
+          "id": "3-5",
+          "label": "3–5 tuổi (Mầm non)",
+          "dir": "level-1-toan-van/3-5-tuoi-mam-non"
+        },
+        {
+          "id": "11+",
+          "label": "11+ tuổi (Thiếu niên & Người lớn)",
+          "dir": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon"
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "name": "Dàn ý chi tiết",
+      "dir": "level-2-dan-y-chi-tiet",
+      "variants": [
+        {
+          "id": "6-10",
+          "label": "6–10 tuổi (Bản địa hóa)",
+          "dir": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi"
+        },
+        {
+          "id": "3-5",
+          "label": "3–5 tuổi (Mầm non)",
+          "file": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md"
+        },
+        {
+          "id": "11+",
+          "label": "11+ tuổi (Thiếu niên & Người lớn)",
+          "file": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "name": "Dàn ý tóm tắt chuẩn mực",
+      "dir": "level-3-dan-y-tom-tat",
+      "file": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md"
+    },
+    {
+      "level": 4,
+      "name": "Tranh gợi nhớ thuần hình ảnh",
+      "dir": "level-4-tranh-goi-nho",
+      "gallery_file": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+      "images_dir": "level-4-tranh-goi-nho/images",
+      "prompt_spec_file": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+    }
+  ],
+  "books": [
+    {
+      "id": "quyen-1",
+      "number": 1,
+      "slug": "quyen-1-khoi-nguyen-va-anh-sang",
+      "title": "Quyển I: Khởi Nguyên Và Ánh Sáng Đầu Tiên",
+      "subtitle": "Từ Sáng Thế Đến Đại Hồng Thủy",
+      "is_epilogue": false,
+      "illustration_style": "charcoal_and_golden_ochre_chalk_pastel"
+    },
+    {
+      "id": "quyen-2",
+      "number": 2,
+      "slug": "quyen-2-hanh-trinh-ve-dat-hua",
+      "title": "Quyển II: Hành Trình Về Đất Hứa",
+      "subtitle": "Từ Tháp Babel & Abraham Đến Giấc Mơ Vua David",
+      "is_epilogue": false,
+      "illustration_style": "monochrome_sepia_watercolor_and_pencil_oval_vignette"
+    },
+    {
+      "id": "quyen-3",
+      "number": 3,
+      "slug": "quyen-3-chung-ta-se-xay-mot-den-tho",
+      "title": "Quyển III: Chúng Ta Sẽ Xây Một Đền Thờ",
+      "subtitle": "Từ Đền Thờ Solomon Đến Các Tiên Tri Và Thời Phục Hưng",
+      "is_epilogue": false,
+      "illustration_style": "monochrome_sepia_watercolor_and_pencil_oval_vignette"
+    },
+    {
+      "id": "quyen-4",
+      "number": 4,
+      "slug": "quyen-4-hai-dua-tre-giang-sinh",
+      "title": "Quyển IV: Hai Đứa Trẻ Giáng Sinh Và Bình Minh Bên Sông Jordan",
+      "subtitle": "Hai Dòng Dõi Tại Nazareth Và Người Mở Đường Nơi Hoang Địa",
+      "is_epilogue": false,
+      "illustration_style": "monochrome_sepia_watercolor_and_pencil_oval_vignette"
+    },
+    {
+      "id": "quyen-5",
+      "number": 5,
+      "slug": "quyen-5-ngoai-truyen-ong-gia-noel",
+      "title": "Quyển V (Ngoại Truyện): Hạt Giống Yêu Thương Đêm Đông",
+      "subtitle": "Từ Thánh Nicholas Thành Myra Đến Ông Già Noel",
+      "is_epilogue": true,
+      "illustration_style": "monochrome_sepia_watercolor_and_pencil_oval_vignette"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "canh-01",
+      "number": 1,
+      "slug": "canh-01-khoi-nguyen-va-cuoc-chien-anh-sang",
+      "title": "Khởi Nguyên Thế Giới Và Cuộc Chiến Giữa Ánh Sáng Với Bóng Tối",
+      "book_id": "quyen-1",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-01-khoi-nguyen-va-cuoc-chien-anh-sang.png",
+      "image_generated": true,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-1-khoi-nguyen-va-anh-sang.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-1-khoi-nguyen-va-anh-sang.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-01-khoi-nguyen-va-cuoc-chien-anh-sang.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-02",
+      "number": 2,
+      "slug": "canh-02-bay-ngay-sang-the",
+      "title": "Bảy Ngày Sáng Thế Và Sự Tạo Dựng Con Người Đầu Tiên",
+      "book_id": "quyen-1",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-02-bay-ngay-sang-the.png",
+      "image_generated": true,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-1-khoi-nguyen-va-anh-sang.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-1-khoi-nguyen-va-anh-sang.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-02-bay-ngay-sang-the.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-03",
+      "number": 3,
+      "slug": "canh-03-muon-hoa-va-muon-thu-buoi-dau",
+      "title": "Muôn Hoa, Cây Cỏ Và Loài Vật Giữa Ánh Sáng Và Bóng Tối",
+      "book_id": "quyen-1",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-03-muon-hoa-va-muon-thu-buoi-dau.png",
+      "image_generated": true,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-1-khoi-nguyen-va-anh-sang.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-1-khoi-nguyen-va-anh-sang.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-03-muon-hoa-va-muon-thu-buoi-dau.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-04",
+      "number": 4,
+      "slug": "canh-04-vuon-dia-dang-va-buoc-chan-xuong-tran",
+      "title": "Vườn Địa Đàng, Trái Cấm Và Những Giọt Nước Mắt Đầu Tiên Trên Mặt Đất",
+      "book_id": "quyen-1",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-04-vuon-dia-dang-va-buoc-chan-xuong-tran.png",
+      "image_generated": true,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-1-khoi-nguyen-va-anh-sang.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-1-khoi-nguyen-va-anh-sang.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-04-vuon-dia-dang-va-buoc-chan-xuong-tran.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-05",
+      "number": 5,
+      "slug": "canh-05-cain-abel-va-hat-giong-su-song",
+      "title": "Cain, Abel, Người Em Mới Seth Và Ba Hạt Giống Cây Sự Sống",
+      "book_id": "quyen-1",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-05-cain-abel-va-hat-giong-su-song.png",
+      "image_generated": true,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-1-khoi-nguyen-va-anh-sang.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-1-khoi-nguyen-va-anh-sang.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-05-cain-abel-va-hat-giong-su-song.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-06",
+      "number": 6,
+      "slug": "canh-06-con-chau-cain-va-ngon-lua-van-minh",
+      "title": "Ba Con Trai Của Cain: Thuần Hóa Muôn Thú, Tiếng Đàn Thiên Giới Và Lò Rèn Sắt",
+      "book_id": "quyen-1",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-06-con-chau-cain-va-ngon-lua-van-minh.png",
+      "image_generated": true,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-1-khoi-nguyen-va-anh-sang.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-1-khoi-nguyen-va-anh-sang.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-06-con-chau-cain-va-ngon-lua-van-minh.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-07",
+      "number": 7,
+      "slug": "canh-07-enoch-nguoi-giu-anh-sang",
+      "title": "Ánh Sáng Của Enoch Giữa Đêm Tối Ngẫu Tượng",
+      "book_id": "quyen-1",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-07-enoch-nguoi-giu-anh-sang.png",
+      "image_generated": true,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-1-khoi-nguyen-va-anh-sang.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-1-khoi-nguyen-va-anh-sang.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-07-enoch-nguoi-giu-anh-sang.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-08",
+      "number": 8,
+      "slug": "canh-08-con-tau-noah-va-cau-vong-giao-uoc",
+      "title": "Con Tàu Của Noah, Cơn Đại Hồng Thủy Và Chiếc Cầu Vồng Giao Ước",
+      "book_id": "quyen-1",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-08-con-tau-noah-va-cau-vong-giao-uoc.png",
+      "image_generated": true,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-1-khoi-nguyen-va-anh-sang.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-1-khoi-nguyen-va-anh-sang.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-1-khoi-nguyen-va-anh-sang.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-08-con-tau-noah-va-cau-vong-giao-uoc.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-09",
+      "number": 9,
+      "slug": "canh-09-thap-babel-va-abram-buoc-ra-khoi-lua",
+      "title": "Ngai Bảy Tầng Của Nimrod, Tháp Babel Và Chàng Trai Abram Bước Ra Khỏi Lò Lửa",
+      "book_id": "quyen-2",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-09-thap-babel-va-abram-buoc-ra-khoi-lua.png",
+      "image_generated": true,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-2-hanh-trinh-ve-dat-hua.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-2-hanh-trinh-ve-dat-hua.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-09-thap-babel-va-abram-buoc-ra-khoi-lua.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-10",
+      "number": 10,
+      "slug": "canh-10-abraham-goc-cay-thieng-va-le-hien-te-isaac",
+      "title": "Lời Hứa Dưới Trời Sao, Cây Cổ Thụ Của Abraham Và Phép Thử Trên Núi Moriah",
+      "book_id": "quyen-2",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-10-abraham-goc-cay-thieng-va-le-hien-te-isaac.png",
+      "image_generated": true,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-2-hanh-trinh-ve-dat-hua.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-2-hanh-trinh-ve-dat-hua.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-10-abraham-goc-cay-thieng-va-le-hien-te-isaac.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-11",
+      "number": 11,
+      "slug": "canh-11-chiec-thang-anh-sang-cua-jacob",
+      "title": "Hai Anh Em Esau – Jacob, Chiếc Thang Ánh Sáng Và Cuộc Hòa Giải",
+      "book_id": "quyen-2",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-11-chiec-thang-anh-sang-cua-jacob.png",
+      "image_generated": false,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-2-hanh-trinh-ve-dat-hua.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-2-hanh-trinh-ve-dat-hua.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-11-chiec-thang-anh-sang-cua-jacob.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-12",
+      "number": 12,
+      "slug": "canh-12-joseph-chiec-ao-ngu-sac-va-nguoi-ban-banh-mi",
+      "title": "Chiếc Áo Ngũ Sắc Của Joseph, Giấc Mơ Pharaoh Và Cuộc Đoàn Tụ Nước Mắt",
+      "book_id": "quyen-2",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-12-joseph-chiec-ao-ngu-sac-va-nguoi-ban-banh-mi.png",
+      "image_generated": false,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-2-hanh-trinh-ve-dat-hua.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-2-hanh-trinh-ve-dat-hua.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-12-joseph-chiec-ao-ngu-sac-va-nguoi-ban-banh-mi.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-13",
+      "number": 13,
+      "slug": "canh-13-moses-bui-gai-chay-va-bien-do-re-nuoc",
+      "title": "Hài Nhi Moses Trên Sông Nile, Bụi Gai Bốc Cháy Và Biển Đỏ Rẽ Đôi",
+      "book_id": "quyen-2",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-13-moses-bui-gai-chay-va-bien-do-re-nuoc.png",
+      "image_generated": false,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-2-hanh-trinh-ve-dat-hua.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-2-hanh-trinh-ve-dat-hua.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-13-moses-bui-gai-chay-va-bien-do-re-nuoc.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-14",
+      "number": 14,
+      "slug": "canh-14-muoi-dieu-ran-den-tam-va-cai-nhin-tu-nui-nebo",
+      "title": "Mười Điều Răn Trên Đỉnh Sinai, Ngôi Đền Tạm Và Cái Nhìn Cuối Cùng Từ Núi Nebo",
+      "book_id": "quyen-2",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-14-muoi-dieu-ran-den-tam-va-cai-nhin-tu-nui-nebo.png",
+      "image_generated": false,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-2-hanh-trinh-ve-dat-hua.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-2-hanh-trinh-ve-dat-hua.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-14-muoi-dieu-ran-den-tam-va-cai-nhin-tu-nui-nebo.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-15",
+      "number": 15,
+      "slug": "canh-15-vua-saul-tieng-dan-david-va-giac-mo-cay-the-gioi",
+      "title": "Vua Saul, Tiếng Đàn Chăn Cừu Của David Và Giấc Mơ Cây Thế Giới",
+      "book_id": "quyen-2",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-15-vua-saul-tieng-dan-david-va-giac-mo-cay-the-gioi.png",
+      "image_generated": false,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-2-hanh-trinh-ve-dat-hua.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-2-hanh-trinh-ve-dat-hua.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-2-hanh-trinh-ve-dat-hua.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-15-vua-saul-tieng-dan-david-va-giac-mo-cay-the-gioi.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-16",
+      "number": 16,
+      "slug": "canh-16-solomon-trai-tim-thong-tue-va-ngoi-den-tho",
+      "title": "Trái Tim Thông Tuệ Của Vua Solomon Và Ngôi Đền Thờ Jerusalem",
+      "book_id": "quyen-3",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-16-solomon-trai-tim-thong-tue-va-ngoi-den-tho.png",
+      "image_generated": false,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-3-chung-ta-se-xay-mot-den-tho.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-3-chung-ta-se-xay-mot-den-tho.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-16-solomon-trai-tim-thong-tue-va-ngoi-den-tho.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-17",
+      "number": 17,
+      "slug": "canh-17-tien-tri-elijah-ngon-lua-trung-thuc-va-co-xe-lua",
+      "title": "Tiên Tri Elijah: Hũ Bột Không Vơi, Ngọn Lửa Trên Núi Carmel Và Cỗ Xe Lửa",
+      "book_id": "quyen-3",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-17-tien-tri-elijah-ngon-lua-trung-thuc-va-co-xe-lua.png",
+      "image_generated": false,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-3-chung-ta-se-xay-mot-den-tho.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-3-chung-ta-se-xay-mot-den-tho.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-17-tien-tri-elijah-ngon-lua-trung-thuc-va-co-xe-lua.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-18",
+      "number": 18,
+      "slug": "canh-18-hanh-trinh-cua-tobias-va-thien-than-chua-lanh",
+      "title": "Chuyến Đi Của Chàng Trẻ Tobias Và Thiên Thần Chữa Lành Raphael",
+      "book_id": "quyen-3",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-18-hanh-trinh-cua-tobias-va-thien-than-chua-lanh.png",
+      "image_generated": false,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-3-chung-ta-se-xay-mot-den-tho.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-3-chung-ta-se-xay-mot-den-tho.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-18-hanh-trinh-cua-tobias-va-thien-than-chua-lanh.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-19",
+      "number": 19,
+      "slug": "canh-19-isaiah-va-jeremiah-loi-tien-tri-giua-tro-tan",
+      "title": "Đôi Môi Chạm Lửa Của Isaiah Và Jeremiah Giấu Hòm Giao Ước Trước Giờ Đền Thờ Sụp Đổ",
+      "book_id": "quyen-3",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-19-isaiah-va-jeremiah-loi-tien-tri-giua-tro-tan.png",
+      "image_generated": false,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-3-chung-ta-se-xay-mot-den-tho.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-3-chung-ta-se-xay-mot-den-tho.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-19-isaiah-va-jeremiah-loi-tien-tri-giua-tro-tan.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-20",
+      "number": 20,
+      "slug": "canh-20-daniel-lo-lua-va-hang-su-tu-babylon",
+      "title": "Daniel Và Các Bạn Trẻ Nơi Xứ Lưu Đày: Lò Lửa Và Hang Sư Tử Babylon",
+      "book_id": "quyen-3",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-20-daniel-lo-lua-va-hang-su-tu-babylon.png",
+      "image_generated": false,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-3-chung-ta-se-xay-mot-den-tho.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-3-chung-ta-se-xay-mot-den-tho.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-20-daniel-lo-lua-va-hang-su-tu-babylon.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-21",
+      "number": 21,
+      "slug": "canh-21-jonah-con-ca-khong-lo-va-long-bao-dung",
+      "title": "Tiên Tri Jonah Trong Bụng Cá Khổng Lồ Và Bài Học Về Lòng Thương Xót",
+      "book_id": "quyen-3",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-21-jonah-con-ca-khong-lo-va-long-bao-dung.png",
+      "image_generated": false,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-3-chung-ta-se-xay-mot-den-tho.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-3-chung-ta-se-xay-mot-den-tho.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-21-jonah-con-ca-khong-lo-va-long-bao-dung.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-22",
+      "number": 22,
+      "slug": "canh-22-xay-lai-thanh-quach-job-va-ngon-lua-maccabeus",
+      "title": "Xây Lại Tường Thành, Lòng Kiên Trung Của Job Và Ngọn Lửa Phục Hưng Đền Thờ",
+      "book_id": "quyen-3",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-22-xay-lai-thanh-quach-job-va-ngon-lua-maccabeus.png",
+      "image_generated": false,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-3-chung-ta-se-xay-mot-den-tho.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-3-chung-ta-se-xay-mot-den-tho.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-3-chung-ta-se-xay-mot-den-tho.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-22-xay-lai-thanh-quach-job-va-ngon-lua-maccabeus.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-23",
+      "number": 23,
+      "slug": "canh-23-loi-bao-tin-trong-den-tho-va-cuoc-gap-go-hai-nguoi-me",
+      "title": "Lời Báo Tin Trong Đền Thờ, Cuộc Hội Ngộ Của Hai Người Mẹ Và Hai Ngọn Sáng Đêm Đông",
+      "book_id": "quyen-4",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-23-loi-bao-tin-trong-den-tho-va-cuoc-gap-go-hai-nguoi-me.png",
+      "image_generated": false,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-4-hai-dua-tre-giang-sinh.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-4-hai-dua-tre-giang-sinh.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-4-hai-dua-tre-giang-sinh.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-4-hai-dua-tre-giang-sinh.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-4-hai-dua-tre-giang-sinh.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-23-loi-bao-tin-trong-den-tho-va-cuoc-gap-go-hai-nguoi-me.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-24",
+      "number": 24,
+      "slug": "canh-24-dua-tre-dong-doi-vua-va-nhung-nha-thong-thai",
+      "title": "Đứa Trẻ Dòng Dõi Vua, Ba Nhà Thông Thái Phương Đông Và Cuộc Chạy Trốn Trong Đêm",
+      "book_id": "quyen-4",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-24-dua-tre-dong-doi-vua-va-nhung-nha-thong-thai.png",
+      "image_generated": false,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-4-hai-dua-tre-giang-sinh.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-4-hai-dua-tre-giang-sinh.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-4-hai-dua-tre-giang-sinh.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-4-hai-dua-tre-giang-sinh.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-4-hai-dua-tre-giang-sinh.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-24-dua-tre-dong-doi-vua-va-nhung-nha-thong-thai.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-25",
+      "number": 25,
+      "slug": "canh-25-dua-tre-muc-dong-va-tinh-ban-o-nazareth",
+      "title": "Đứa Trẻ Dòng Dõi Mục Đồng, Tiếng Hát Trên Đồng Cỏ Và Hai Gia Đình Ở Nazareth",
+      "book_id": "quyen-4",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-25-dua-tre-muc-dong-va-tinh-ban-o-nazareth.png",
+      "image_generated": false,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-4-hai-dua-tre-giang-sinh.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-4-hai-dua-tre-giang-sinh.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-4-hai-dua-tre-giang-sinh.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-4-hai-dua-tre-giang-sinh.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-4-hai-dua-tre-giang-sinh.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-25-dua-tre-muc-dong-va-tinh-ban-o-nazareth.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-26",
+      "number": 26,
+      "slug": "canh-26-nam-thu-muoi-hai-trong-den-tho-va-xuong-moc-nazareth",
+      "title": "Năm Thứ Mười Hai Trong Đền Thờ, Nỗi Đau Mùa Đông Và Người Thợ Mộc Khôn Ngoan",
+      "book_id": "quyen-4",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-26-nam-thu-muoi-hai-trong-den-tho-va-xuong-moc-nazareth.png",
+      "image_generated": false,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-4-hai-dua-tre-giang-sinh.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-4-hai-dua-tre-giang-sinh.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-4-hai-dua-tre-giang-sinh.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-4-hai-dua-tre-giang-sinh.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-4-hai-dua-tre-giang-sinh.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-26-nam-thu-muoi-hai-trong-den-tho-va-xuong-moc-nazareth.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-27",
+      "number": 27,
+      "slug": "canh-27-john-ben-bo-bien-chet-va-phep-rua-tren-song-jordan",
+      "title": "John Giữa Cộng Đồng Áo Trắng, Tiếng Gọi Hoang Địa Và Bình Minh Trên Sông Jordan",
+      "book_id": "quyen-4",
+      "is_epilogue": false,
+      "image": "level-4-tranh-goi-nho/images/canh-27-john-ben-bo-bien-chet-va-phep-rua-tren-song-jordan.png",
+      "image_generated": false,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-4-hai-dua-tre-giang-sinh.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-4-hai-dua-tre-giang-sinh.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-4-hai-dua-tre-giang-sinh.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-4-hai-dua-tre-giang-sinh.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-4-hai-dua-tre-giang-sinh.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-27-john-ben-bo-bien-chet-va-phep-rua-tren-song-jordan.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    },
+    {
+      "id": "canh-28",
+      "number": 28,
+      "slug": "canh-28-ngoai-truyen-thanh-nicholas-va-ong-gia-noel",
+      "title": "Ngoại Truyện: Từ Chiếc Áo Choàng Đỏ Của Thánh Nicholas Đến Ông Già Noel Đêm Giáng Sinh",
+      "book_id": "quyen-5",
+      "is_epilogue": true,
+      "image": "level-4-tranh-goi-nho/images/canh-28-ngoai-truyen-thanh-nicholas-va-ong-gia-noel.png",
+      "image_generated": false,
+      "levels": {
+        "level_0": {
+          "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+          "book": "level-0-khong-gian-boi-canh/quyen-5-ngoai-truyen-ong-gia-noel.md"
+        },
+        "level_1": {
+          "6-10": "level-1-toan-van/6-10-tuoi-chuan/quyen-5-ngoai-truyen-ong-gia-noel.md",
+          "3-5": "level-1-toan-van/3-5-tuoi-mam-non/quyen-5-ngoai-truyen-ong-gia-noel.md",
+          "11+": "level-1-toan-van/11-cong-thieu-nien-nguoi-lon/quyen-5-ngoai-truyen-ong-gia-noel.md"
+        },
+        "level_2": {
+          "6-10": "level-2-dan-y-chi-tiet/ban-dia-hoa-6-10-tuoi/quyen-5-ngoai-truyen-ong-gia-noel.md",
+          "3-5": "level-2-dan-y-chi-tiet/mam-non-3-5-tuoi/dan-y-chi-tiet-3-5-tuoi.md",
+          "11+": "level-2-dan-y-chi-tiet/thieu-nien-nguoi-lon-11-cong/dan-y-chi-tiet-11-cong.md"
+        },
+        "level_3": "level-3-dan-y-tom-tat/dan-y-tom-tat-28-phan-canh.md",
+        "level_4": {
+          "gallery": "level-4-tranh-goi-nho/bo-tranh-goi-nho.md",
+          "image": "level-4-tranh-goi-nho/images/canh-28-ngoai-truyen-thanh-nicholas-va-ong-gia-noel.png",
+          "prompt_spec": "level-4-tranh-goi-nho/prompts-28-phan-canh.md"
+        }
+      }
+    }
+  ]
+}
