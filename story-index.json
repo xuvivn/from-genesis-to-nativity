@@ -598,7 +598,7 @@
       "book_id": "quyen-2",
       "is_epilogue": false,
       "image": "level-4-tranh-goi-nho/images/canh-11-chiec-thang-anh-sang-cua-jacob.png",
-      "image_generated": false,
+      "image_generated": true,
       "levels": {
         "level_0": {
           "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
@@ -630,7 +630,7 @@
       "book_id": "quyen-2",
       "is_epilogue": false,
       "image": "level-4-tranh-goi-nho/images/canh-12-joseph-chiec-ao-ngu-sac-va-nguoi-ban-banh-mi.png",
-      "image_generated": false,
+      "image_generated": true,
       "levels": {
         "level_0": {
           "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
@@ -662,7 +662,7 @@
       "book_id": "quyen-2",
       "is_epilogue": false,
       "image": "level-4-tranh-goi-nho/images/canh-13-moses-bui-gai-chay-va-bien-do-re-nuoc.png",
-      "image_generated": false,
+      "image_generated": true,
       "levels": {
         "level_0": {
           "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
@@ -694,7 +694,7 @@
       "book_id": "quyen-2",
       "is_epilogue": false,
       "image": "level-4-tranh-goi-nho/images/canh-14-muoi-dieu-ran-den-tam-va-cai-nhin-tu-nui-nebo.png",
-      "image_generated": false,
+      "image_generated": true,
       "levels": {
         "level_0": {
           "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
@@ -726,7 +726,7 @@
       "book_id": "quyen-2",
       "is_epilogue": false,
       "image": "level-4-tranh-goi-nho/images/canh-15-vua-saul-tieng-dan-david-va-giac-mo-cay-the-gioi.png",
-      "image_generated": false,
+      "image_generated": true,
       "levels": {
         "level_0": {
           "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
@@ -758,7 +758,7 @@
       "book_id": "quyen-3",
       "is_epilogue": false,
       "image": "level-4-tranh-goi-nho/images/canh-16-solomon-trai-tim-thong-tue-va-ngoi-den-tho.png",
-      "image_generated": false,
+      "image_generated": true,
       "levels": {
         "level_0": {
           "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
@@ -790,7 +790,7 @@
       "book_id": "quyen-3",
       "is_epilogue": false,
       "image": "level-4-tranh-goi-nho/images/canh-17-tien-tri-elijah-ngon-lua-trung-thuc-va-co-xe-lua.png",
-      "image_generated": false,
+      "image_generated": true,
       "levels": {
         "level_0": {
           "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
@@ -822,7 +822,7 @@
       "book_id": "quyen-3",
       "is_epilogue": false,
       "image": "level-4-tranh-goi-nho/images/canh-18-hanh-trinh-cua-tobias-va-thien-than-chua-lanh.png",
-      "image_generated": false,
+      "image_generated": true,
       "levels": {
         "level_0": {
           "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
@@ -854,7 +854,7 @@
       "book_id": "quyen-3",
       "is_epilogue": false,
       "image": "level-4-tranh-goi-nho/images/canh-19-isaiah-va-jeremiah-loi-tien-tri-giua-tro-tan.png",
-      "image_generated": false,
+      "image_generated": true,
       "levels": {
         "level_0": {
           "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
@@ -886,7 +886,7 @@
       "book_id": "quyen-3",
       "is_epilogue": false,
       "image": "level-4-tranh-goi-nho/images/canh-20-daniel-lo-lua-va-hang-su-tu-babylon.png",
-      "image_generated": false,
+      "image_generated": true,
       "levels": {
         "level_0": {
           "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
@@ -918,7 +918,7 @@
       "book_id": "quyen-3",
       "is_epilogue": false,
       "image": "level-4-tranh-goi-nho/images/canh-21-jonah-con-ca-khong-lo-va-long-bao-dung.png",
-      "image_generated": false,
+      "image_generated": true,
       "levels": {
         "level_0": {
           "overview": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
