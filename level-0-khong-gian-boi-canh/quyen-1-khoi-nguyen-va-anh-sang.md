@@ -72,3 +72,13 @@ Từ cuộc chia ly rời Vườn Địa Đàng, nhân loại bước vào ba nh
 6. **Cảnh 06** (`canh-06-con-chau-cain-va-ngon-lua-van-minh`): Jabal thuần hóa gia súc & cất nóc ngôi nhà đầu tiên; Thubal-Cain rèn dao vàng – dao bạc – dao sắt; Jubal làm nhạc dịu lòng ác thú; bi kịch lão Cộc và bài hát ru cứu Jubal khỏi hang cướp.
 7. **Cảnh 07** (`canh-07-enoch-nguoi-giu-anh-sang`): Seth ẩn giấu sách; thời suy đồi của Enos; Enoch giáng sinh giữa đàn chim trắng, đập vỡ tượng đất sét, giảng ngụ ngôn bông hoa hướng sáng cho bọn cướp và thăng thiên trên ngựa trắng có cánh.
 8. **Cảnh 08** (`canh-08-con-tau-noah-va-cau-vong-giao-uoc`): Noah trước Thành phố Trăm Ngẫu Tượng; thiên thần Raphael trao Sách Sự Sống; đóng Con Tàu gỗ tuyết tùng gắn ngọc Anoa; 40 ngày Đại Hồng Thủy; quạ và bồ câu tha nhành ô liu; cầu vồng giao ước; vườn nho bốn chén và mộ Adam trên đồi Golgatha.
+
+---
+
+## 6. Sách Cổ Đọc Thêm Liên Quan
+
+- [Sách Khải Huyền Và Cổ Thư Khởi Nguyên](van-ban-co/sach-khai-huyen-va-khoi-nguyen-co.md)
+- [Sách Sáng Thế](van-ban-co/sach-sang-the.md)
+- [Cổ Thư Tự Nhiên Buổi Đầu](van-ban-co/co-thu-tu-nhien-buoi-dau.md)
+- [Sách Cuộc Đời Adam Và Eve](van-ban-co/sach-cuoc-doi-adam-va-eve.md)
+- [Sách Ê-nóc](van-ban-co/sach-e-noc.md)

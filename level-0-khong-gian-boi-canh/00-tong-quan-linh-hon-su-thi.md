@@ -91,3 +91,40 @@ Khi chuẩn bị giọng kể, người kể nên giữ mắt nhìn theo 4 biể
 
 ### Quyển V (Ngoại Truyện): Hạt Giống Yêu Thương Đêm Đông
 - **Phân cảnh 28** (`canh-28-ngoai-truyen-thanh-nicholas-va-ong-gia-noel`): Ngoại Truyện: Từ Chiếc Áo Choàng Đỏ Của Thánh Nicholas Đến Ông Già Noel Đêm Giáng Sinh
+
+---
+
+## 6. Thư Viện Văn Bản Gốc Đọc Thêm (25 Sách Cổ)
+
+Nhằm giúp người kể chuyện tiếp cận trực tiếp mạch văn bản gốc kết tinh từ di sản chung của nhân loại trước khi bước vào luyện kể, các văn bản cổ được tách riêng độc lập theo từng đầu sách trong thư mục [`van-ban-co/`](van-ban-co/):
+
+### Nhóm A — Kinh Cựu Ước (15 Sách)
+1. [Sách Sáng Thế](van-ban-co/sach-sang-the.md) — Bảy ngày tạo dựng, Vườn Địa Đàng, Cain – Abel – Seth, Enoch, Đại Hồng Thủy của Noah, Tháp Babel, Abraham, Isaac, Jacob và Joseph.
+2. [Sách Xuất Hành](van-ban-co/sach-xuat-hanh.md) — Hài nhi Moses trên sông Nile, Bụi Gai Bốc Cháy, Mười tai ương, Lễ Vượt Qua, Biển Đỏ rẽ đôi, Bánh manna, Mười Điều Răn trên đỉnh Sinai, Con Bê Vàng và Đền Tạm.
+3. [Sách Dân Số](van-ban-co/sach-dan-so.md) — Bốn mươi năm nơi hoang địa, Cây gậy trổ hoa hạnh nhân, Con rắn đồng chữa lành và Con lừa của Bileam mở miệng nói.
+4. [Sách Phục Truyền Luật Lệ Ký](van-ban-co/sach-phuc-truyen-luat-le-ky.md) — Lời dặn dò cuối cùng và cái nhìn của Moses về Đất Hứa từ đỉnh núi Nebo.
+5. [Sách Giô-suê](van-ban-co/sach-gio-sue.md) — Sợi dây đỏ của Rahab, Vượt sông Jordan trên đất khô và Bảy ngày vòng quanh thành Jericho.
+6. [Sách Sa-mu-en](van-ban-co/sach-sa-mu-en.md) — Samuel tại Đền Thờ Shiloh, Xức dầu cho Saul và David, Tiếng đàn hạc, Goliath, Tình bạn Jonathan, Hang đá Engedi và Rước Hòm Giao Ước về Jerusalem.
+7. [Sách Các Vua](van-ban-co/sach-cac-vua.md) — Trái tim thông tuệ của Solomon, Xây Đền Thờ Jerusalem, Nữ hoàng Sheba, Tiên tri Elijah, Ngọn lửa núi Carmel, Cỗ xe lửa và Tướng Naaman dưới sông Jordan.
+8. [Sách Tô-bít](van-ban-co/sach-to-bit.md) — Người cha mù nhân nghĩa Tobit, Chuyến đi của Tobias cùng bạn đồng hành Azariah/Raphael và chú chó nhỏ, Con cá sông Tigris, Giải cứu Sara và chữa sáng mắt cha.
+9. [Sách Tiên Tri I-sai-a](van-ban-co/sach-i-sai-a.md) — Hòn than hồng chạm môi, Lời báo trước hài nhi Emmanuel, Cành non hòa bình gốc Jesse và Cuộc giải vây thành Jerusalem thời Vua Hezekiah.
+10. [Sách Tiên Tri Giê-rê-mi-a](van-ban-co/sach-gie-re-mi-a.md) — Tiếng gọi thuở thiếu thời, Cuộn sách bị đốt, Thử thách dưới giếng bùn sâu và Giao ước mới khắc trong trái tim.
+11. [Sách Tiên Tri Đa-ni-en](van-ban-co/sach-da-ni-en.md) — Lòng thanh sạch nơi cung điện Babylon, Pho tượng bốn kim loại, Ba người bạn trong lò lửa, Bàn tay viết chữ trên tường, Dấu chân trên sàn tro đền thần Bel và Hang sư tử.
+12. [Sách Tiên Tri Giô-na](van-ban-co/sach-gio-na.md) — Chạy trốn trên biển bão, Ba ngày đêm trong bụng cá lớn, Sự ăn năn của thành Nineveh và Bài học lòng thương xót bên dây bầu.
+13. [Sách Nê-hê-mi-a](van-ban-co/sach-ne-he-mi-a.md) — Khảo sát tường thành đổ nát trong đêm và Công cuộc một tay cầm bay xây đắp, một tay cầm gươm canh giữ dựng lại Jerusalem.
+14. [Sách Gióp](van-ban-co/sach-giop.md) — Thử thách mất mát tận cùng nơi đất Uz, Cuộc đối thoại giữa đêm tối và Lời tuyên xưng bất khuất về Đấng Cứu Chuộc hằng sống.
+15. [Sách Ma-ca-bê](van-ban-co/sach-ma-ca-be.md) — Jeremiah giấu Hòm Giao Ước trên núi Nebo, Kỵ sĩ thiên thần chặn tướng Heliodorus, Cuộc khởi nghĩa thắp lại đèn Đền Thờ của Judas Maccabeus và Liên minh với La Mã.
+
+### Nhóm B — Kinh Tân Ước (3 Sách)
+16. [Sách Tin Mừng Theo Ma-thi-ơ](van-ban-co/tin-mung-ma-thi-o.md) — Gia phả qua nhánh Solomon, Ngôi sao phương Đông và ba nhà thông thái, Cuộc lánh nạn sang Ai Cập, Trở về Nazareth và Phép rửa trên sông Jordan.
+17. [Sách Tin Mừng Theo Lu-ca](van-ban-co/tin-mung-lu-ca.md) — Lời báo tin cho Zechariah và Maria, Cuộc thăm viếng Elizabeth, Đêm đông Bethlehem cùng các mục đồng, Cụ Simeon và bà Anna, Năm mười hai tuổi trong Đền Thờ và Gia phả qua nhánh Nathan.
+18. [Sách Tin Mừng Theo Ma-kô](van-ban-co/tin-mung-ma-ko.md) — Tiếng gọi hoang địa, Bình minh phép rửa trên sông Jordan khi chim bồ câu đáp xuống, Hình ảnh người thợ mộc làng Nazareth và Cái chết bất khuất của John.
+
+### Nhóm C — Cổ Thư Cận Kinh, Huyền Sử & Sử Truyền Cổ (7 Sách)
+19. [Sách Khải Huyền Và Cổ Thư Khởi Nguyên](van-ban-co/sach-khai-huyen-va-khoi-nguyen-co.md) — Cõi ánh sáng nguyên thủy, Sự kiêu ngạo của thần sao mai và Cuộc chiến trên vòm trời đẩy Con Rồng xuống vực thẳm.
+20. [Cổ Thư Tự Nhiên Buổi Đầu](van-ban-co/co-thu-tu-nhien-buoi-dau.md) — Sự tích hoa trắng đón ánh sao trên đỉnh núi đá, Đàn bướm và đàn ong, Thảo mộc giữ nhựa độc làm thuốc, Chiếc gai hoa hồng và Sự phân định giữa bồ câu – cừu non với dơi – sói.
+21. [Sách Cuộc Đời Adam Và Eve](van-ban-co/sach-cuoc-doi-adam-va-eve.md) — Đêm đầu tiên ngoài cổng Địa Đàng, Hành trình của Seth xin ba hạt giống Cây Sự Sống và Việc đưa hài cốt Adam về đồi Golgatha.
+22. [Sách Ê-nóc](van-ban-co/sach-e-noc.md) — Cuốn Sách Sự Sống trong hang pha lê, Thời đại tượng đất sét, Ngụ ngôn bông hoa hướng sáng, Viên ngọc dạ quang trên con tàu Noah và Bước chân lên đỉnh núi tuyết.
+23. [Cổ Sử Lưỡng Hà Và Ai Cập](van-ban-co/co-su-luong-ha-va-ai-cap.md) — Chàng trai Abram đập tượng đất và bước ra khỏi lò lửa Nimrod, Phép thử đĩa vàng – than hồng của bé Moses, Hai con sư tử cổng thành, Bảy tầng trời Sinai và Giấc mơ Cây Thế Giới hai nhánh.
+24. [Cổ Truyền Nazareth Và Cộng Đồng Biển Chết](van-ban-co/co-truyen-nazareth-va-bien-chet.md) — Hai gia đình dòng Solomon và Nathan hội tụ tại Nazareth, Đôi bạn thơ ấu cứu chim sẻ non, Mùa đông hợp nhất xưởng mộc và Cộng đồng áo trắng Qumran bên Biển Chết.
+25. [Sử Truyền Thánh Nicholas Thành Myra Và Huyền Thoại Mùa Đông](van-ban-co/su-truyen-thanh-nicholas.md) — Ba túi vàng ném qua cửa sổ rơi vào tất bên lò sưởi, Phép lạ tàu lúa mì không vơi tại cảng Myra và Hành trình hóa thân thành Ông già Noel đêm Giáng sinh.

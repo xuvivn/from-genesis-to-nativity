@@ -51,3 +51,9 @@ Vì thế, đặt phần này làm **Quyển V — Ngoại Truyện** giúp ngư
 ## 5. Khung Phân Cảnh Ngoại Truyện (Phân cảnh 28)
 
 28. **Cảnh 28** (`canh-28-ngoai-truyen-thanh-nicholas-va-ong-gia-noel`): Chàng thanh niên mồ côi Nicholas xứ Patara bí mật ném ba túi vàng qua cửa sổ rơi trúng vào những chiếc tất hong bên lò sưởi cứu ba cô con gái người hàng xóm nghèo; trở thành Giám mục thành Myra thực hiện phép lạ chia lúa mì từ con tàu hoàng gia giữa nạn đói mà cân vẫn đủ đầy; ký ức ngày 6 tháng 12 lan khắp châu Âu thành *Sinterklaas* đi tàu và cưỡi ngựa trắng ban quà đêm đông, rồi vượt đại dương hòa cùng truyền thống Giáng sinh thành Ông già Noel mặc áo đỏ viền trắng giữ mãi ngọn lửa trao tặng âm thầm.
+
+---
+
+## 6. Sách Cổ Đọc Thêm Liên Quan
+
+- [Sử Truyền Thánh Nicholas Thành Myra Và Huyền Thoại Mùa Đông](van-ban-co/su-truyen-thanh-nicholas.md)

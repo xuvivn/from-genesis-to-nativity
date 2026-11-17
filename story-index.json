@@ -8,7 +8,160 @@
       "level": 0,
       "name": "Không gian bối cảnh & Linh hồn câu chuyện",
       "dir": "level-0-khong-gian-boi-canh",
-      "overview_file": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md"
+      "overview_file": "level-0-khong-gian-boi-canh/00-tong-quan-linh-hon-su-thi.md",
+      "ancient_books_dir": "level-0-khong-gian-boi-canh/van-ban-co",
+      "ancient_books": [
+        {
+          "id": "sach-sang-the",
+          "title": "Sách Sáng Thế",
+          "category": "cuu-uoc",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/sach-sang-the.md"
+        },
+        {
+          "id": "sach-xuat-hanh",
+          "title": "Sách Xuất Hành",
+          "category": "cuu-uoc",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/sach-xuat-hanh.md"
+        },
+        {
+          "id": "sach-dan-so",
+          "title": "Sách Dân Số",
+          "category": "cuu-uoc",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/sach-dan-so.md"
+        },
+        {
+          "id": "sach-phuc-truyen-luat-le-ky",
+          "title": "Sách Phục Truyền Luật Lệ Ký",
+          "category": "cuu-uoc",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/sach-phuc-truyen-luat-le-ky.md"
+        },
+        {
+          "id": "sach-gio-sue",
+          "title": "Sách Giô-suê",
+          "category": "cuu-uoc",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/sach-gio-sue.md"
+        },
+        {
+          "id": "sach-sa-mu-en",
+          "title": "Sách Sa-mu-en",
+          "category": "cuu-uoc",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/sach-sa-mu-en.md"
+        },
+        {
+          "id": "sach-cac-vua",
+          "title": "Sách Các Vua",
+          "category": "cuu-uoc",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/sach-cac-vua.md"
+        },
+        {
+          "id": "sach-to-bit",
+          "title": "Sách Tô-bít",
+          "category": "cuu-uoc",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/sach-to-bit.md"
+        },
+        {
+          "id": "sach-i-sai-a",
+          "title": "Sách Tiên Tri I-sai-a",
+          "category": "cuu-uoc",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/sach-i-sai-a.md"
+        },
+        {
+          "id": "sach-gie-re-mi-a",
+          "title": "Sách Tiên Tri Giê-rê-mi-a",
+          "category": "cuu-uoc",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/sach-gie-re-mi-a.md"
+        },
+        {
+          "id": "sach-da-ni-en",
+          "title": "Sách Tiên Tri Đa-ni-en",
+          "category": "cuu-uoc",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/sach-da-ni-en.md"
+        },
+        {
+          "id": "sach-gio-na",
+          "title": "Sách Tiên Tri Giô-na",
+          "category": "cuu-uoc",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/sach-gio-na.md"
+        },
+        {
+          "id": "sach-ne-he-mi-a",
+          "title": "Sách Nê-hê-mi-a",
+          "category": "cuu-uoc",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/sach-ne-he-mi-a.md"
+        },
+        {
+          "id": "sach-giop",
+          "title": "Sách Gióp",
+          "category": "cuu-uoc",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/sach-giop.md"
+        },
+        {
+          "id": "sach-ma-ca-be",
+          "title": "Sách Ma-ca-bê",
+          "category": "cuu-uoc",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/sach-ma-ca-be.md"
+        },
+        {
+          "id": "tin-mung-ma-thi-o",
+          "title": "Sách Tin Mừng Theo Ma-thi-ơ",
+          "category": "tan-uoc",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/tin-mung-ma-thi-o.md"
+        },
+        {
+          "id": "tin-mung-lu-ca",
+          "title": "Sách Tin Mừng Theo Lu-ca",
+          "category": "tan-uoc",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/tin-mung-lu-ca.md"
+        },
+        {
+          "id": "tin-mung-ma-ko",
+          "title": "Sách Tin Mừng Theo Ma-kô",
+          "category": "tan-uoc",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/tin-mung-ma-ko.md"
+        },
+        {
+          "id": "sach-khai-huyen-va-khoi-nguyen-co",
+          "title": "Sách Khải Huyền Và Cổ Thư Khởi Nguyên",
+          "category": "co-thu",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/sach-khai-huyen-va-khoi-nguyen-co.md"
+        },
+        {
+          "id": "co-thu-tu-nhien-buoi-dau",
+          "title": "Cổ Thư Tự Nhiên Buổi Đầu",
+          "category": "co-thu",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/co-thu-tu-nhien-buoi-dau.md"
+        },
+        {
+          "id": "sach-cuoc-doi-adam-va-eve",
+          "title": "Sách Cuộc Đời Adam Và Eve",
+          "category": "co-thu",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/sach-cuoc-doi-adam-va-eve.md"
+        },
+        {
+          "id": "sach-e-noc",
+          "title": "Sách Ê-nóc",
+          "category": "co-thu",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/sach-e-noc.md"
+        },
+        {
+          "id": "co-su-luong-ha-va-ai-cap",
+          "title": "Cổ Sử Lưỡng Hà Và Ai Cập",
+          "category": "co-thu",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/co-su-luong-ha-va-ai-cap.md"
+        },
+        {
+          "id": "co-truyen-nazareth-va-bien-chet",
+          "title": "Cổ Truyền Nazareth Và Cộng Đồng Biển Chết",
+          "category": "co-thu",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/co-truyen-nazareth-va-bien-chet.md"
+        },
+        {
+          "id": "su-truyen-thanh-nicholas",
+          "title": "Sử Truyền Thánh Nicholas Thành Myra Và Huyền Thoại Mùa Đông",
+          "category": "co-thu",
+          "file": "level-0-khong-gian-boi-canh/van-ban-co/su-truyen-thanh-nicholas.md"
+        }
+      ]
     },
     {
       "level": 1,

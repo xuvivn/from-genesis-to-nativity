@@ -82,3 +82,15 @@ Quyển II đi qua ba khúc rẽ lớn:
 13. **Cảnh 13** (`canh-13-moses-bui-gai-chay-va-bien-do-re-nuoc`): Chiếc giỏ sậy trên sông Nile, công chúa Bithia và phép thử đĩa vàng – than hồng, chạy trốn sang Midian, Bụi Gai Bốc Cháy không tàn, cuộc đối đầu với hai con sư tử và pháp sư Bileam, Lễ Vượt Qua và Biển Đỏ rẽ nước.
 14. **Cảnh 14** (`canh-14-muoi-dieu-ran-den-tam-va-cai-nhin-tu-nui-nebo`): Bánh trời manna và tảng đá phun nước, thị kiến 7 tầng trời tại Sinai và Mười Điều Răn, bi kịch Con Bê Vàng, dựng Đền Tạm di động, con rắn đồng chữa lành, con lừa của Bileam biết nói, cái nhìn cuối cùng của Moses từ đỉnh Nebo, và Joshua vượt sông Jordan hạ thành Jericho.
 15. **Cảnh 15** (`canh-15-vua-saul-tieng-dan-david-va-giac-mo-cay-the-gioi`): Samuel xức dầu cho Saul dưới bầu trời sao, cậu bé chăn cừu David luyện ná dây da và gảy đàn hạc dỗ vua, viên đá cuội hạ gã Goliath, tình bạn sinh tử với Jonathan, tha chết cho Saul trong hang đá Engedi, lên ngôi tại Jerusalem, truyền lại việc xây Đền Thờ cho Solomon, và giấc mơ Cây Thế Giới nối liền hai dòng nhánh Solomon – Nathan.
+
+---
+
+## 6. Sách Cổ Đọc Thêm Liên Quan
+
+- [Sách Sáng Thế](van-ban-co/sach-sang-the.md)
+- [Cổ Sử Lưỡng Hà Và Ai Cập](van-ban-co/co-su-luong-ha-va-ai-cap.md)
+- [Sách Xuất Hành](van-ban-co/sach-xuat-hanh.md)
+- [Sách Dân Số](van-ban-co/sach-dan-so.md)
+- [Sách Phục Truyền Luật Lệ Ký](van-ban-co/sach-phuc-truyen-luat-le-ky.md)
+- [Sách Giô-suê](van-ban-co/sach-gio-sue.md)
+- [Sách Sa-mu-en](van-ban-co/sach-sa-mu-en.md)

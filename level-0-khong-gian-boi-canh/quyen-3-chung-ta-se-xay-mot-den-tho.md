@@ -76,3 +76,17 @@ Quyển III mở ra từ đỉnh cao chói lọi nhất của vương quốc th�
 20. **Cảnh 20** (`canh-20-daniel-lo-lua-va-hang-su-tu-babylon`): Daniel từ chối cao lương mỹ vị giữ tâm sáng, giải mộng pho tượng khổng lồ, ba người bạn bình an bước giữa lò lửa hồng, bàn tay viết chữ trên tường tiệc Belshazzar, vụ án dấu chân trên tro rắc vạch mặt tượng thần Bel, hang sư tử đêm không tiếng gầm, và thị kiến về Con Người trên mây trời.
 21. **Cảnh 21** (`canh-21-jonah-con-ca-khong-lo-va-long-bao-dung`): Jonah xuống tàu chạy trốn tiếng gọi, bão biển và ba ngày trong bụng cá khổng lồ, lời rao khiến cả kinh thành Nineveh ăn năn từ vua đến súc vật, cơn giận dưới gốc dây bầu và bài học thương xót mọi sinh linh của Đấng Tạo Hóa.
 22. **Cảnh 22** (`canh-22-xay-lai-thanh-quach-job-va-ngon-lua-maccabeus`): Nehemiah đêm cưỡi ngựa thăm tường đổ và dựng lại Jerusalem bằng một tay cầm bay một tay cầm gươm; Thượng Tế Onias cầu nguyện cứu viên tướng xâm phạm Heliodorus; Job giữa mất mát tột cùng vẫn cất tiếng tuyên xưng sự sống giữa đêm đen; và gia tộc Maccabeus thắng voi chiến thắp lại ngọn lửa bất diệt, ký tấm bia liên minh với Rome.
+
+---
+
+## 6. Sách Cổ Đọc Thêm Liên Quan
+
+- [Sách Các Vua](van-ban-co/sach-cac-vua.md)
+- [Sách Tô-bít](van-ban-co/sach-to-bit.md)
+- [Sách Tiên Tri I-sai-a](van-ban-co/sach-i-sai-a.md)
+- [Sách Tiên Tri Giê-rê-mi-a](van-ban-co/sach-gie-re-mi-a.md)
+- [Sách Tiên Tri Đa-ni-en](van-ban-co/sach-da-ni-en.md)
+- [Sách Tiên Tri Giô-na](van-ban-co/sach-gio-na.md)
+- [Sách Nê-hê-mi-a](van-ban-co/sach-ne-he-mi-a.md)
+- [Sách Gióp](van-ban-co/sach-giop.md)
+- [Sách Ma-ca-bê](van-ban-co/sach-ma-ca-be.md)

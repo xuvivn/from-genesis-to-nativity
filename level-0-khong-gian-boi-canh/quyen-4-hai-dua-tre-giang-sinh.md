@@ -62,3 +62,12 @@ Sau nhiều thế kỷ chờ đợi trong Quyển I–III, toàn bộ sử thi �
 25. **Cảnh 25** (`canh-25-dua-tre-muc-dong-va-tinh-ban-o-nazareth`): Tiếng hát thiên thần vang trên đồng cỏ những người chăn cừu nghèo, lễ dâng con trong Đền Thờ gặp cụ Simeon và bà Anna; cuộc gặp gỡ bất ngờ của hai bà Maria bên giếng làng Nazareth; tình bạn khắng khít của hai cậu bé Giêsu và câu chuyện cứu chú chim non rơi tổ.
 26. **Cảnh 26** (`canh-26-nam-thu-muoi-hai-trong-den-tho-va-xuong-moc-nazareth`): Chuyến hành hương năm thứ mười hai lên Đền Thờ Jerusalem nơi hai cậu bé dừng lại đối đáp với các học giả và người bạn dòng dõi mục đồng lắng nghe tiếng gọi thầm kín; mùa đông mất mát khắc nghiệt hợp nhất hai mái nhà thành một; và những ngày bình dị chàng thanh niên Giêsu làm nghề thợ mộc đóng chiếc ghế êm ái tặng bà cụ nghèo.
 27. **Cảnh 27** (`canh-27-john-ben-bo-bien-chet-va-phep-rua-tren-song-jordan`): Cậu bé John mồ côi vào sống giữa cộng đồng áo trắng Essenes ở Qumran bên Biển Chết; bước vào hoang địa ăn mật ong rừng châu chấu và cất tiếng gọi bên bờ sông Jordan; phép rửa tinh thần ba dòng nước khi Giêsu từ Nazareth bước xuống sông dưới ánh sáng bồ câu trắng; và lời làm chứng cuối cùng bất khuất của John trong pháo đài Macharus trước khi bình minh kỷ nguyên mới mở ra.
+
+---
+
+## 6. Sách Cổ Đọc Thêm Liên Quan
+
+- [Sách Tin Mừng Theo Ma-thi-ơ](van-ban-co/tin-mung-ma-thi-o.md)
+- [Sách Tin Mừng Theo Lu-ca](van-ban-co/tin-mung-lu-ca.md)
+- [Sách Tin Mừng Theo Ma-kô](van-ban-co/tin-mung-ma-ko.md)
+- [Cổ Truyền Nazareth Và Cộng Đồng Biển Chết](van-ban-co/co-truyen-nazareth-va-bien-chet.md)
