@@ -1,0 +1,44 @@
+{
+  "project": "from-genesis-to-nativity",
+  "default_language": "vi",
+  "target_age": "9-10",
+  "style_reference": "Jakob Streit",
+  "total_books": 5,
+  "total_chapters": 180,
+  "total_illustrations": 28,
+  "shared_assets": {
+    "images_dir": "assets/images"
+  },
+  "languages": [
+    {
+      "code": "vi",
+      "bcp47": "vi-VN",
+      "name": "Vietnamese",
+      "native_name": "Tiếng Việt",
+      "title": "Từ Sáng Thế Đến Giáng Sinh — Bộ Sử Thi Luyện Kể Chuyện 5 Cấp Độ",
+      "readme": "locales/vi/README.md",
+      "index_file": "locales/vi/story-index.json",
+      "base_dir": "locales/vi"
+    },
+    {
+      "code": "en",
+      "bcp47": "en-US",
+      "name": "English",
+      "native_name": "English",
+      "title": "From Genesis to Nativity — 5-Level Storytelling Practice Corpus",
+      "readme": "locales/en/README.md",
+      "index_file": "locales/en/story-index.json",
+      "base_dir": "locales/en"
+    },
+    {
+      "code": "zh",
+      "bcp47": "zh-CN",
+      "name": "Simplified Chinese",
+      "native_name": "简体中文",
+      "title": "从创世到圣诞——五阶故事讲述练习语料库",
+      "readme": "locales/zh/README.md",
+      "index_file": "locales/zh/story-index.json",
+      "base_dir": "locales/zh"
+    }
+  ]
+}
